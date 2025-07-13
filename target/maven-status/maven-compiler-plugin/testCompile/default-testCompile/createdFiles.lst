@@ -1,0 +1,9 @@
+com/jpmc/midascore/FileLoader.class
+com/jpmc/midascore/TaskFourTests.class
+com/jpmc/midascore/TaskOneTests.class
+com/jpmc/midascore/TaskFiveTests.class
+com/jpmc/midascore/KafkaProducer.class
+com/jpmc/midascore/BalanceQuerier.class
+com/jpmc/midascore/UserPopulator.class
+com/jpmc/midascore/TaskThreeTests.class
+com/jpmc/midascore/TaskTwoTests.class

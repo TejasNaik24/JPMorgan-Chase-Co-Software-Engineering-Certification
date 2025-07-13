@@ -1,0 +1,10 @@
+/Users/anishkajan/Documents/forage-midas/src/main/java/com/jpmc/midascore/component/TransactionConsumer.java
+/Users/anishkajan/Documents/forage-midas/src/main/java/com/jpmc/midascore/foundation/Balance.java
+/Users/anishkajan/Documents/forage-midas/src/main/java/com/jpmc/midascore/foundation/Incentive.java
+/Users/anishkajan/Documents/forage-midas/src/main/java/com/jpmc/midascore/foundation/Transaction.java
+/Users/anishkajan/Documents/forage-midas/src/main/java/com/jpmc/midascore/repository/TransactionRecordRepository.java
+/Users/anishkajan/Documents/forage-midas/src/main/java/com/jpmc/midascore/entity/TransactionRecord.java
+/Users/anishkajan/Documents/forage-midas/src/main/java/com/jpmc/midascore/entity/UserRecord.java
+/Users/anishkajan/Documents/forage-midas/src/main/java/com/jpmc/midascore/repository/UserRepository.java
+/Users/anishkajan/Documents/forage-midas/src/main/java/com/jpmc/midascore/component/DatabaseConduit.java
+/Users/anishkajan/Documents/forage-midas/src/main/java/com/jpmc/midascore/MidasCoreApplication.java
