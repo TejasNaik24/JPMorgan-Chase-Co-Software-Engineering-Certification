@@ -4,7 +4,7 @@ This project is part of the **J.P. Morgan Chase Forage Software Engineering Virt
 
 ## Check out my certification [here](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_mGKMFkWbvxWi5DcWt_1752447989154_completion_certificate.pdf)!
 
-## ✅ Task Summary
+## Summary
 
 This project is part of the J.P. Morgan Chase Software Engineering Virtual Experience, where 
 I worked on the Midas Core system—a backend service responsible for processing, validating, and 
